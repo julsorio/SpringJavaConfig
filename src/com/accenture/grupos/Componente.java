@@ -1,5 +1,9 @@
 package com.accenture.grupos;
 
+/**
+ * Clase que representa un componente del grupo musical
+ * @author Andrea Ravagli Castillo
+ */
 public class Componente {
 	private String nombre;
 	private String instrumento;

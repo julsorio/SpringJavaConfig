@@ -3,6 +3,12 @@ package com.accenture.grupos;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+/**
+ * Clase donde se obtiene el contexto de spring a partir de la clase
+ * de configuracion
+ * 
+ * @author Andrea Ravagli Castillo
+ */
 public class UsoSpringConfigClaseJava {
 
 	public static void main(String[] args) {

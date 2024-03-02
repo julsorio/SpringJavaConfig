@@ -2,6 +2,9 @@ package com.accenture.grupos;
 
 import java.util.List;
 
+/**
+ * @author Clase que representa un grupo musical
+ */
 public class Grupo {
 	private String nombre;
 	private int creacion;

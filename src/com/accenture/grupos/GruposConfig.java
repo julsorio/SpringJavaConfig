@@ -6,6 +6,11 @@ import java.util.List;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+/**
+ * Clase de configuracion donde se definen los diferentes beans
+ * 
+ * @author Andrea Ravagli Castillo
+ */
 @Configuration
 public class GruposConfig {
 
